@@ -28,7 +28,7 @@ I'm Mo Nakouzi, and I'm Computer Science student working towards a future in sof
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=monakouzi.monakouzi&left_color=blue&right_color=black)
 
 
-<!-- <details>
+<details>
 <summary>
 More about me
 </summary>
@@ -40,4 +40,4 @@ I enjoy working with motivated teams on large projects, so we all learn from one
 #### Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monakouzi&hide=prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</details> -->
+</details>
