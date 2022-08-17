@@ -25,7 +25,7 @@ I'm Mo Nakouzi, and I'm Computer Science student working towards a future in sof
 
 
 #### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=monakouzi.monakouzi&left_color=blue&right_color=black)
+![](https://komarev.com/ghpvc/?username=MoNakouzi&color=blue&style=plastic)
 
 
 <details>
