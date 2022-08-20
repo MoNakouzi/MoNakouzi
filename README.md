@@ -25,7 +25,7 @@ I'm Mo Nakouzi, and I'm Computer Science student working towards a future in sof
 
 
 #### Profile Visits
-+ ![Visitors](https://komarev.com/ghpvc/?username=MoNakouzi&label=Visitors&style=plastic)
+![Visitors](https://komarev.com/ghpvc/?username=MoNakouzi&label=Visitors&style=plastic)
 
 
 <details>
