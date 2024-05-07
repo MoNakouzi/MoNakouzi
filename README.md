@@ -6,10 +6,10 @@ I'm Mo Nakouzi, and I'm Computer Science student working towards a future in sof
 
 [![Linkedin Badge](https://img.shields.io/badge/-MoNakouzi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnakouzi/) [![Mail Badge](https://img.shields.io/badge/-MoNakouzi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mo.nakouzi03@gmail.com)
 
-- 🧠 I’m currently learning and expanding my knowledge on ReactJS and Swift
+- 🧠 I’m currently learning and expanding my knowledge on backend tools such as Supabase and Ruby
 - 🧐 I’m interested in Software Development, specifically web and app development
 - 🤝 I’m looking to collaborate on website and app development projects
-- 💻 Most Proficient At: App development in Java
+- 💻 Most Proficient At: Web Development in NextJS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the piano
 
